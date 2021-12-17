@@ -1,0 +1,104 @@
+{
+  "name": "Nenad Joncic/Boka",
+  "version": "v1",
+  "files": [
+    {
+      "checksum": "87058027f96042d24e6ac0878a2bffeaf38d1667",
+      "mtime": "2021-09-15T13:09:33.993477Z",
+      "path": "IMG_20210912_143111.jpg",
+      "size": 3493023,
+      "version": "v1"
+    },
+    {
+      "checksum": "aeed641ef3971586a55418ab2335a88bc72a7c68",
+      "mtime": "2021-09-15T13:09:33.993481Z",
+      "path": "IMG_20210912_143409.jpg",
+      "size": 2988052,
+      "version": "v1"
+    },
+    {
+      "checksum": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "mtime": "2021-09-15T13:09:33.993481Z",
+      "path": "JPEG_20210912_143346_1439870755672769537.jpg",
+      "size": 0,
+      "version": "v1"
+    },
+    {
+      "checksum": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "mtime": "2021-09-15T13:09:33.993482Z",
+      "path": "JPEG_20210912_140529_7645592000290160149.jpg",
+      "size": 0,
+      "version": "v1"
+    },
+    {
+      "checksum": "d383bc54b66cd23def5a4aec2ca5daefd833c6b0",
+      "mtime": "2021-09-15T13:09:33.993482Z",
+      "path": "JPEG_20210912_141342_3624380915577762303.jpg",
+      "size": 4837722,
+      "version": "v1"
+    },
+    {
+      "checksum": "775cbee0933d16dcd37d337351ba1a964134cfe7",
+      "mtime": "2021-09-15T13:09:33.993483Z",
+      "path": "JPEG_20210912_141432_8234684379912853171.jpg",
+      "size": 5988415,
+      "version": "v1"
+    },
+    {
+      "checksum": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "mtime": "2021-09-15T13:09:33.993484Z",
+      "path": "JPEG_20210912_142415_5917105266343562943.jpg",
+      "size": 0,
+      "version": "v1"
+    },
+    {
+      "checksum": "accfde49b0942f0282d57563617f4009201af49f",
+      "mtime": "2021-09-15T13:09:33.993484Z",
+      "path": "Boka.qgs",
+      "size": 27640,
+      "version": "v1"
+    },
+    {
+      "checksum": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "mtime": "2021-09-15T13:09:33.993484Z",
+      "path": "JPEG_20210912_142500_2165637634666240673.jpg",
+      "size": 0,
+      "version": "v1"
+    },
+    {
+      "checksum": "625ac52fa5230c322e9d2b867a6b533d279af10b",
+      "mtime": "2021-09-15T13:09:33.993485Z",
+      "path": "data.gpkg",
+      "size": 98304,
+      "version": "v1"
+    },
+    {
+      "checksum": "18283feb2435974b951401883d695dc16e1c5e15",
+      "mtime": "2021-09-15T13:09:33.993485Z",
+      "path": "JPEG_20210912_140915_8365443171399879023.jpg",
+      "size": 3655999,
+      "version": "v1"
+    },
+    {
+      "checksum": "77d97bfc116f4de26163ca5cd356b2437937d303",
+      "mtime": "2021-09-15T13:09:33.993486Z",
+      "path": "JPEG_20210912_142253_8057966546900730877.jpg",
+      "size": 7069949,
+      "version": "v1"
+    },
+    {
+      "checksum": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "mtime": "2021-09-15T13:09:33.993487Z",
+      "path": "JPEG_20210912_143039_1151691848371169994.jpg",
+      "size": 0,
+      "version": "v1"
+    },
+    {
+      "checksum": "8b29a289adfde10dad91a6c0b6716748c94df193",
+      "mtime": "2021-09-15T13:09:33.993487Z",
+      "path": "JPEG_20210912_141605_8836921894663678517.jpg",
+      "size": 3333399,
+      "version": "v1"
+    }
+  ]
+}

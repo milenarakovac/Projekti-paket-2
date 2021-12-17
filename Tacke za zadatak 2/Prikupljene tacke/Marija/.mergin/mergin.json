@@ -1,0 +1,34 @@
+{
+  "name": "Nenad Joncic/Marija",
+  "version": "v1",
+  "files": [
+    {
+      "checksum": "c3cfd7495eac7dace11cafb95a715af1c75f36cc",
+      "mtime": "2021-09-17T13:52:50.446257Z",
+      "path": "data.gpkg",
+      "size": 98304,
+      "version": "v1"
+    },
+    {
+      "checksum": "2e6876f2036e803a63e0137e2accf3c77762bfd7",
+      "mtime": "2021-09-17T13:52:50.446260Z",
+      "path": "20210912_140743.jpg",
+      "size": 12228930,
+      "version": "v1"
+    },
+    {
+      "checksum": "9493865db03a260864b9e2dd7bb3bdec4e72ce94",
+      "mtime": "2021-09-17T13:52:50.446261Z",
+      "path": "20210912_144637.jpg",
+      "size": 12523628,
+      "version": "v1"
+    },
+    {
+      "checksum": "b2a5c1f1d45b595a37931051d2c5ae5823acb30b",
+      "mtime": "2021-09-17T13:52:50.446262Z",
+      "path": "Marija.qgs",
+      "size": 27635,
+      "version": "v1"
+    }
+  ]
+}

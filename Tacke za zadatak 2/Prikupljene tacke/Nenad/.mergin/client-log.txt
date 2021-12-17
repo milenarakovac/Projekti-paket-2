@@ -1,0 +1,17 @@
+2021-12-16 15:23:31,023 --- version: Python-client/0.6.6 Plugin/2021.4.3 QGIS/3.16.11 (Windows/10)
+2021-12-16 15:23:31,023 --- start download Nenad Joncic/Nenad
+2021-12-16 15:23:31,365 got project info. version v1
+2021-12-16 15:23:31,366 will download 6 files in 6 chunks, total size 26539401
+2021-12-16 15:23:31,367 Downloading data.gpkg version=v1 diff=False part=0
+2021-12-16 15:23:31,368 Downloading JPEG_20210912_141530_6783541650387811476.jpg version=v1 diff=False part=0
+2021-12-16 15:23:31,369 Downloading JPEG_20210912_141726_8817084608200812778.jpg version=v1 diff=False part=0
+2021-12-16 15:23:31,370 Downloading JPEG_20210912_140809_8943155889216724811.jpg version=v1 diff=False part=0
+2021-12-16 15:23:31,816 Download finished: JPEG_20210912_141530_6783541650387811476.jpg
+2021-12-16 15:23:31,872 Download finished: data.gpkg
+2021-12-16 15:23:31,889 Download finished: JPEG_20210912_141726_8817084608200812778.jpg
+2021-12-16 15:23:31,924 Download finished: JPEG_20210912_140809_8943155889216724811.jpg
+2021-12-16 15:23:31,944 Downloading JPEG_20210912_141910_428611698926200835.jpg version=v1 diff=False part=0
+2021-12-16 15:23:32,964 Download finished: JPEG_20210912_141910_428611698926200835.jpg
+2021-12-16 15:23:34,709 Downloading Nenad.qgs version=v1 diff=False part=0
+2021-12-16 15:23:35,338 Download finished: Nenad.qgs
+2021-12-16 15:23:37,626 --- download finished

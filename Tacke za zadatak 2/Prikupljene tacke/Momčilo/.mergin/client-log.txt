@@ -1,0 +1,15 @@
+2021-12-16 15:23:21,772 --- version: Python-client/0.6.6 Plugin/2021.4.3 QGIS/3.16.11 (Windows/10)
+2021-12-16 15:23:21,772 --- start download Nenad Joncic/Momčilo
+2021-12-16 15:23:22,193 got project info. version v1
+2021-12-16 15:23:22,194 will download 5 files in 5 chunks, total size 15810050
+2021-12-16 15:23:22,195 Downloading JPEG_20210912_140645_420337603472952663.jpg version=v1 diff=False part=0
+2021-12-16 15:23:22,196 Downloading JPEG_20210912_142629_4181345077896560322.jpg version=v1 diff=False part=0
+2021-12-16 15:23:22,200 Downloading JPEG_20210912_143210_1808434244634816501.jpg version=v1 diff=False part=0
+2021-12-16 15:23:22,202 Downloading data.gpkg version=v1 diff=False part=0
+2021-12-16 15:23:22,802 Download finished: data.gpkg
+2021-12-16 15:23:22,818 Download finished: JPEG_20210912_140645_420337603472952663.jpg
+2021-12-16 15:23:22,823 Download finished: JPEG_20210912_142629_4181345077896560322.jpg
+2021-12-16 15:23:22,827 Download finished: JPEG_20210912_143210_1808434244634816501.jpg
+2021-12-16 15:23:22,889 Downloading Momčilo.qgs version=v1 diff=False part=0
+2021-12-16 15:23:23,889 Download finished: Momčilo.qgs
+2021-12-16 15:23:25,702 --- download finished

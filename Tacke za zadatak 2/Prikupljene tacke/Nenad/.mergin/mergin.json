@@ -1,0 +1,48 @@
+{
+  "name": "Nenad Joncic/Nenad",
+  "version": "v1",
+  "files": [
+    {
+      "checksum": "d18d92da5b7aa456fb7cb3de7d661835279b742f",
+      "mtime": "2021-09-14T09:47:46.475972Z",
+      "path": "data.gpkg",
+      "size": 98304,
+      "version": "v1"
+    },
+    {
+      "checksum": "2c171b928d49bdcd008bfd0052af36634ab13bcd",
+      "mtime": "2021-09-14T09:47:46.475976Z",
+      "path": "JPEG_20210912_141530_6783541650387811476.jpg",
+      "size": 9468319,
+      "version": "v1"
+    },
+    {
+      "checksum": "bc23f65c9b206b2cc852007aca4625be530fa2e9",
+      "mtime": "2021-09-14T09:47:46.475977Z",
+      "path": "JPEG_20210912_141726_8817084608200812778.jpg",
+      "size": 5381997,
+      "version": "v1"
+    },
+    {
+      "checksum": "9f903a87bfdcc7f4197e1166debaeb88f7e71df0",
+      "mtime": "2021-09-14T09:47:46.475978Z",
+      "path": "JPEG_20210912_140809_8943155889216724811.jpg",
+      "size": 6080940,
+      "version": "v1"
+    },
+    {
+      "checksum": "6cbbe817bb39f6318a9ee100ec6dccf1751f2848",
+      "mtime": "2021-09-14T09:47:46.475979Z",
+      "path": "JPEG_20210912_141910_428611698926200835.jpg",
+      "size": 5482201,
+      "version": "v1"
+    },
+    {
+      "checksum": "7cab9fc6767a924be817e22f174d4cba01217f5e",
+      "mtime": "2021-09-14T09:47:46.475979Z",
+      "path": "Nenad.qgs",
+      "size": 27640,
+      "version": "v1"
+    }
+  ]
+}

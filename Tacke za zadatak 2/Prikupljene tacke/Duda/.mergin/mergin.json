@@ -1,0 +1,83 @@
+{
+  "name": "Nenad Joncic/Duda",
+  "version": "v1",
+  "files": [
+    {
+      "checksum": "dd49355d4a1f5c21714d4ba3950be7bb2b3f22fe",
+      "mtime": "2021-09-13T19:26:06.402984Z",
+      "path": "JPEG_20210912_144513_4189946399221604891.jpg",
+      "size": 5629109,
+      "version": "v1"
+    },
+    {
+      "checksum": "9a8cfcdffd94a06c3099c0de30f0d70b14569748",
+      "mtime": "2021-09-13T19:26:06.402989Z",
+      "path": "JPEG_20210912_142322_8657849835492846573.jpg",
+      "size": 6073901,
+      "version": "v1"
+    },
+    {
+      "checksum": "94ea7f3337dce7dfac35d8d975e916c80d4976a3",
+      "mtime": "2021-09-13T19:26:06.402989Z",
+      "path": "JPEG_20210912_142034_8250555654569869178.jpg",
+      "size": 6082525,
+      "version": "v1"
+    },
+    {
+      "checksum": "ed1a554173771214aeae45ebe30d1d8ed9e31fe7",
+      "mtime": "2021-09-13T19:26:06.402990Z",
+      "path": "data.gpkg",
+      "size": 98304,
+      "version": "v1"
+    },
+    {
+      "checksum": "d023cdf3149b7bcf09039726f9ae61d3ff7d9d10",
+      "mtime": "2021-09-13T19:26:06.402991Z",
+      "path": "JPEG_20210912_143707_7319357714316825762.jpg",
+      "size": 4689789,
+      "version": "v1"
+    },
+    {
+      "checksum": "b9616f8ce79ae172d8ee888de41aa81e20864eef",
+      "mtime": "2021-09-13T19:26:06.402992Z",
+      "path": "Duda.qgs",
+      "size": 27640,
+      "version": "v1"
+    },
+    {
+      "checksum": "e567ca86ffe6b5ea1af59c39ad1b914f6951c50c",
+      "mtime": "2021-09-13T19:26:06.402992Z",
+      "path": "JPEG_20210912_144625_4515774628268711927.jpg",
+      "size": 5636707,
+      "version": "v1"
+    },
+    {
+      "checksum": "303ea84eeac02882f7fff9c1af2dc6856ea3fdef",
+      "mtime": "2021-09-13T19:26:06.402993Z",
+      "path": "JPEG_20210912_140346_64557112746759135.jpg",
+      "size": 6626590,
+      "version": "v1"
+    },
+    {
+      "checksum": "a0056d9dd897cfdd5821904a51455a5384abe87e",
+      "mtime": "2021-09-13T19:26:06.402994Z",
+      "path": "JPEG_20210912_144234_5486676343018079265.jpg",
+      "size": 4951676,
+      "version": "v1"
+    },
+    {
+      "checksum": "80b424bf2400efe10437e2c20ae657057427b92d",
+      "mtime": "2021-09-13T19:26:06.402994Z",
+      "path": "JPEG_20210912_142451_2469598104388166295.jpg",
+      "size": 5283337,
+      "version": "v1"
+    },
+    {
+      "checksum": "f3389b51465127dd3cd378c6d4f558c626bc11b3",
+      "mtime": "2021-09-13T19:26:06.402995Z",
+      "path": "JPEG_20210912_143847_6301034489712019702.jpg",
+      "size": 5610647,
+      "version": "v1"
+    }
+  ]
+}

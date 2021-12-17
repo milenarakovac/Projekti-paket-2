@@ -1,0 +1,13 @@
+2021-12-16 15:22:01,497 --- version: Python-client/0.6.6 Plugin/2021.4.3 QGIS/3.16.11 (Windows/10)
+2021-12-16 15:22:01,497 --- start download Nenad Joncic/Marija
+2021-12-16 15:22:01,832 got project info. version v1
+2021-12-16 15:22:01,833 will download 4 files in 4 chunks, total size 24878497
+2021-12-16 15:22:01,834 Downloading data.gpkg version=v1 diff=False part=0
+2021-12-16 15:22:01,835 Downloading 20210912_140743.jpg version=v1 diff=False part=0
+2021-12-16 15:22:01,836 Downloading 20210912_144637.jpg version=v1 diff=False part=0
+2021-12-16 15:22:01,837 Downloading Marija.qgs version=v1 diff=False part=0
+2021-12-16 15:22:02,344 Download finished: data.gpkg
+2021-12-16 15:22:02,349 Download finished: 20210912_140743.jpg
+2021-12-16 15:22:02,358 Download finished: Marija.qgs
+2021-12-16 15:22:02,361 Download finished: 20210912_144637.jpg
+2021-12-16 15:22:06,869 --- download finished

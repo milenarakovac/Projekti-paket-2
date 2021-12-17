@@ -1,0 +1,34 @@
+{
+  "name": "Nenad Joncic/Bane",
+  "version": "v1",
+  "files": [
+    {
+      "checksum": "4c2386ee9c58208934007896434c82cbc1885b1c",
+      "mtime": "2021-09-15T13:10:08.097554Z",
+      "path": "JPEG_20210912_143003_306958086178677736.jpg",
+      "size": 5080301,
+      "version": "v1"
+    },
+    {
+      "checksum": "415a8eb4080bef573aa1ec4f28388b99f6fda549",
+      "mtime": "2021-09-15T13:10:08.097558Z",
+      "path": "data.gpkg",
+      "size": 98304,
+      "version": "v1"
+    },
+    {
+      "checksum": "ef0d1ace9149f1512d23dbd3f47eca8471b10e27",
+      "mtime": "2021-09-15T13:10:08.097558Z",
+      "path": "Bane.qgs",
+      "size": 27640,
+      "version": "v1"
+    },
+    {
+      "checksum": "6de0d4a39198a79fb9b2d1a9fbd37488d258e524",
+      "mtime": "2021-09-15T13:10:08.097559Z",
+      "path": "JPEG_20210912_141234_8816711488351275381.jpg",
+      "size": 7206348,
+      "version": "v1"
+    }
+  ]
+}

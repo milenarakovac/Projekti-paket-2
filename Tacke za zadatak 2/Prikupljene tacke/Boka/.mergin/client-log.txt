@@ -1,0 +1,23 @@
+2021-12-16 15:09:39,339 --- version: Python-client/0.6.6 Plugin/2021.4.3 QGIS/3.16.11 (Windows/10)
+2021-12-16 15:09:39,340 --- start download Nenad Joncic/Boka
+2021-12-16 15:09:39,867 got project info. version v1
+2021-12-16 15:09:39,868 will download 14 files in 9 chunks, total size 31492503
+2021-12-16 15:09:39,869 Downloading IMG_20210912_143111.jpg version=v1 diff=False part=0
+2021-12-16 15:09:39,870 Downloading IMG_20210912_143409.jpg version=v1 diff=False part=0
+2021-12-16 15:09:39,871 Downloading JPEG_20210912_141342_3624380915577762303.jpg version=v1 diff=False part=0
+2021-12-16 15:09:39,872 Downloading JPEG_20210912_141432_8234684379912853171.jpg version=v1 diff=False part=0
+2021-12-16 15:09:40,448 Download finished: JPEG_20210912_141432_8234684379912853171.jpg
+2021-12-16 15:09:40,463 Download finished: JPEG_20210912_141342_3624380915577762303.jpg
+2021-12-16 15:09:40,487 Download finished: IMG_20210912_143111.jpg
+2021-12-16 15:09:40,500 Download finished: IMG_20210912_143409.jpg
+2021-12-16 15:09:42,321 Downloading Boka.qgs version=v1 diff=False part=0
+2021-12-16 15:09:43,043 Download finished: Boka.qgs
+2021-12-16 15:09:43,092 Downloading data.gpkg version=v1 diff=False part=0
+2021-12-16 15:09:43,118 Downloading JPEG_20210912_140915_8365443171399879023.jpg version=v1 diff=False part=0
+2021-12-16 15:09:43,351 Downloading JPEG_20210912_142253_8057966546900730877.jpg version=v1 diff=False part=0
+2021-12-16 15:09:43,557 Downloading JPEG_20210912_141605_8836921894663678517.jpg version=v1 diff=False part=0
+2021-12-16 15:09:43,585 Download finished: data.gpkg
+2021-12-16 15:09:43,652 Download finished: JPEG_20210912_140915_8365443171399879023.jpg
+2021-12-16 15:09:43,850 Download finished: JPEG_20210912_142253_8057966546900730877.jpg
+2021-12-16 15:09:44,083 Download finished: JPEG_20210912_141605_8836921894663678517.jpg
+2021-12-16 15:09:46,552 --- download finished

@@ -1,0 +1,41 @@
+{
+  "name": "Nenad Joncic/Mom\u010dilo",
+  "version": "v1",
+  "files": [
+    {
+      "checksum": "b34a56d854131fc66251fa43860a9cb1d91d6e2c",
+      "mtime": "2021-09-15T14:05:43.087653Z",
+      "path": "JPEG_20210912_140645_420337603472952663.jpg",
+      "size": 4750511,
+      "version": "v1"
+    },
+    {
+      "checksum": "f2738fccf037623f3dde9983be2dcec06b995786",
+      "mtime": "2021-09-15T14:05:43.087657Z",
+      "path": "JPEG_20210912_142629_4181345077896560322.jpg",
+      "size": 5368788,
+      "version": "v1"
+    },
+    {
+      "checksum": "cab0bec1902f61e23f3af110b180babf00432fbe",
+      "mtime": "2021-09-15T14:05:43.087657Z",
+      "path": "JPEG_20210912_143210_1808434244634816501.jpg",
+      "size": 5564807,
+      "version": "v1"
+    },
+    {
+      "checksum": "2d3757f1367bf3306087e838b1cea4d0726d4e01",
+      "mtime": "2021-09-15T14:05:43.087658Z",
+      "path": "data.gpkg",
+      "size": 98304,
+      "version": "v1"
+    },
+    {
+      "checksum": "8958898d6720e9258357c484618f3d2d19d8c941",
+      "mtime": "2021-09-15T14:05:43.087658Z",
+      "path": "Mom\u010dilo.qgs",
+      "size": 27640,
+      "version": "v1"
+    }
+  ]
+}
